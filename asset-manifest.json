@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/robofriends/static/css/main.c8d2aacf.chunk.css",
-    "main.js": "/robofriends/static/js/main.22276b3c.chunk.js",
-    "main.js.map": "/robofriends/static/js/main.22276b3c.chunk.js.map",
+    "main.js": "/robofriends/static/js/main.a66ef9c8.chunk.js",
+    "main.js.map": "/robofriends/static/js/main.a66ef9c8.chunk.js.map",
     "runtime~main.js": "/robofriends/static/js/runtime~main.fb41d28d.js",
     "runtime~main.js.map": "/robofriends/static/js/runtime~main.fb41d28d.js.map",
     "static/css/2.31dafeb2.chunk.css": "/robofriends/static/css/2.31dafeb2.chunk.css",
     "static/js/2.c05ccf0c.chunk.js": "/robofriends/static/js/2.c05ccf0c.chunk.js",
     "static/js/2.c05ccf0c.chunk.js.map": "/robofriends/static/js/2.c05ccf0c.chunk.js.map",
     "index.html": "/robofriends/index.html",
-    "precache-manifest.ff24f08a40a99b2d5808895d0d13c990.js": "/robofriends/precache-manifest.ff24f08a40a99b2d5808895d0d13c990.js",
+    "precache-manifest.6a52fada8d0beee652a6971ebf4f8da4.js": "/robofriends/precache-manifest.6a52fada8d0beee652a6971ebf4f8da4.js",
     "service-worker.js": "/robofriends/service-worker.js",
     "static/css/2.31dafeb2.chunk.css.map": "/robofriends/static/css/2.31dafeb2.chunk.css.map",
     "static/css/main.c8d2aacf.chunk.css.map": "/robofriends/static/css/main.c8d2aacf.chunk.css.map",
